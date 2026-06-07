@@ -17,6 +17,12 @@ This project mirrors how e-commerce companies like **Amazon, Flipkart, and Meesh
 
 ---
 
+## Dashboard
+
+![Full dashboard](dashboard/master_dashboard.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
