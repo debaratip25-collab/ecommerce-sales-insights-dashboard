@@ -1,0 +1,311 @@
+Order_ID,Customer_ID,Customer_Name,Order_Date,Region,State,City,Product_Category,Product_Name,Quantity_Sold,Unit_Price,Discount_Pct,Sales_Amount,Cost_Amount,Profit_Amount,Profit_Margin_Pct,Payment_Method,Shipping_Mode,Delivery_Status,Customer_Segment
+ORD-1047,C1066,Akash Verma,2024-01-01,West,Maharashtra,Pune,Electronics,Wireless Earbuds,3,26403.28,19.4,63843.13,43466.64,20376.49,31.92,EMI,Economy,Delivered,Corporate
+ORD-1001,C1049,Rekha Singh,2024-01-02,North,Uttar Pradesh,Lucknow,Beauty & Personal Care,Face Wash,4,972.93,22.0,3035.54,1106.94,1928.6,63.53,Net Banking,Same Day,Cancelled,Corporate
+ORD-1215,C1066,Akash Verma,2024-01-02,West,Gujarat,Surat,Fashion,Sports Shoes,1,4503.06,25.2,3368.29,1444.44,1923.85,57.12,UPI,Standard,Delivered,Corporate
+ORD-1147,C1033,Suman Singh,2024-01-02,West,Goa,Vasco da Gama,Electronics,Gaming Mouse,4,54083.2,6.2,202920.17,122635.64,80284.53,39.56,EMI,Express,In Transit,Corporate
+ORD-1307,C1048,Pankaj Chopra,2024-01-06,South,Tamil Nadu,Chennai,Books & Stationery,Planner,5,512.97,14.5,2192.95,1007.9,1185.05,54.04,Cash on Delivery,Express,Delivered,Small Business
+ORD-1209,C1010,Ajay Jain,2024-01-09,South,Kerala,Kozhikode,Beauty & Personal Care,Nail Polish Kit,5,2779.33,32.9,9324.65,5488.61,3836.04,41.14,Cash on Delivery,Standard,Delivered,Consumer
+ORD-1164,C1037,Sai Malhotra,2024-01-09,West,Maharashtra,Mumbai,Sports & Fitness,Badminton Racket,4,612.41,18.2,2003.81,1101.0,902.81,45.05,Cash on Delivery,Economy,Cancelled,Consumer
+ORD-1168,C1041,Pankaj Shah,2024-01-09,South,Kerala,Thiruvananthapuram,Electronics,Smartphone,3,72025.48,11.3,191659.8,116257.07,75402.73,39.34,Credit Card,Express,Cancelled,Home Office
+ORD-1244,C1013,Suman Mishra,2024-01-14,North,Haryana,Gurugram,Beauty & Personal Care,Moisturiser SPF,3,3322.0,28.8,7095.79,3335.6,3760.19,52.99,Credit Card,Express,Returned,Consumer
+ORD-1148,C1061,Sneha Saxena,2024-01-17,North,Delhi,Dwarka,Home & Kitchen,Mixer Grinder,5,24854.27,23.7,94819.04,48849.27,45969.77,48.48,Debit Card,Economy,Delivered,Consumer
+ORD-1139,C1038,Rekha Reddy,2024-01-20,North,Uttar Pradesh,Kanpur,Fashion,Formal Shirt,4,4003.41,10.6,14316.19,8407.19,5909.0,41.27,UPI,Same Day,In Transit,Corporate
+ORD-1128,C1065,Pooja Rao,2024-01-21,North,Punjab,Ludhiana,Home & Kitchen,Bed Sheet Set,3,18923.14,9.0,51660.17,31616.38,20043.79,38.8,UPI,Standard,Delivered,Consumer
+ORD-1298,C1020,Arjun Das,2024-01-21,West,Rajasthan,Udaipur,Home & Kitchen,Pressure Cooker,2,14682.85,10.1,26399.76,15119.77,11279.99,42.73,Credit Card,Same Day,In Transit,Corporate
+ORD-1224,C1078,Kavita Sinha,2024-01-21,East,Jharkhand,Jamshedpur,Electronics,Smartphone,2,64761.67,6.1,121622.42,90115.03,31507.39,25.91,Credit Card,Same Day,Delivered,Consumer
+ORD-1200,C1007,Arjun Patel,2024-01-24,East,Bihar,Muzaffarpur,Sports & Fitness,Dumbbell Pair,5,29864.31,24.7,112439.13,74316.4,38122.73,33.91,UPI,Economy,Delivered,Corporate
+ORD-1037,C1036,Rajesh Nair,2024-01-24,East,West Bengal,Kolkata,Home & Kitchen,Non-Stick Cookware Set,3,4650.15,5.3,13211.08,8157.97,5053.11,38.25,UPI,Same Day,Returned,Consumer
+ORD-1217,C1067,Vidya Sharma,2024-01-24,East,Bihar,Patna,Sports & Fitness,Protein Shaker,1,17671.02,27.5,12811.49,6819.33,5992.16,46.77,Net Banking,Standard,Delivered,Corporate
+ORD-1102,C1016,Rasika Iyer,2024-01-25,East,Odisha,Bhubaneswar,Sports & Fitness,Skipping Rope,5,14929.27,24.4,56432.64,30630.24,25802.4,45.72,Credit Card,Economy,Returned,Small Business
+ORD-1272,C1003,Tushar Rao,2024-01-25,North,Punjab,Chandigarh,Home & Kitchen,Bed Sheet Set,5,1404.96,24.9,5275.62,3406.12,1869.5,35.44,EMI,Standard,Delivered,Consumer
+ORD-1098,C1033,Suman Singh,2024-01-27,East,Jharkhand,Dhanbad,Sports & Fitness,Cricket Bat,2,28627.82,25.0,42941.73,22540.62,20401.11,47.51,EMI,Economy,Cancelled,Corporate
+ORD-1082,C1077,Ananya Verma,2024-01-29,West,Maharashtra,Pune,Books & Stationery,Coloring Book,4,837.71,9.6,3029.16,1345.26,1683.9,55.59,UPI,Express,Delivered,Small Business
+ORD-1163,C1048,Pankaj Chopra,2024-01-31,North,Delhi,Dwarka,Fashion,Ethnic Kurta,1,3623.7,5.3,3431.64,1806.53,1625.11,47.36,Cash on Delivery,Economy,Returned,Small Business
+ORD-1003,C1077,Ananya Verma,2024-02-04,North,Punjab,Chandigarh,Sports & Fitness,Dumbbell Pair,1,33635.11,7.0,31280.65,16686.62,14594.03,46.66,EMI,Express,Delivered,Small Business
+ORD-1079,C1052,Rohan Verma,2024-02-05,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,3,8905.38,8.6,24418.55,12978.83,11439.72,46.85,Credit Card,Standard,Delivered,Corporate
+ORD-1304,C1072,Sunita Jain,2024-02-06,North,Uttar Pradesh,Lucknow,Beauty & Personal Care,Nail Polish Kit,1,486.96,11.6,430.47,236.14,194.33,45.14,Cash on Delivery,Express,Delivered,Corporate
+ORD-1054,C1020,Arjun Das,2024-02-08,East,West Bengal,Howrah,Electronics,Gaming Mouse,4,2015.53,2.9,7828.32,6060.58,1767.74,22.58,Net Banking,Same Day,Delivered,Corporate
+ORD-1238,C1043,Kavita Mehta,2024-02-09,North,Uttar Pradesh,Agra,Home & Kitchen,Pillow Set,2,16063.24,7.1,29845.5,18180.71,11664.79,39.08,Credit Card,Same Day,Delivered,Corporate
+ORD-1109,C1035,Yash Saxena,2024-02-12,West,Goa,Margao,Home & Kitchen,Pressure Cooker,4,17363.3,12.3,60910.46,41139.17,19771.29,32.46,EMI,Economy,Delivered,Consumer
+ORD-1171,C1049,Rekha Singh,2024-02-13,East,Jharkhand,Jamshedpur,Fashion,Sneakers,5,4723.37,18.0,19365.82,11037.04,8328.78,43.01,Cash on Delivery,Same Day,Cancelled,Corporate
+ORD-1138,C1008,Priya Shah,2024-02-15,South,Kerala,Kozhikode,Beauty & Personal Care,Face Wash,2,3060.26,18.6,4982.1,2099.23,2882.87,57.86,EMI,Express,In Transit,Consumer
+ORD-1085,C1047,Rasika Shah,2024-02-15,West,Rajasthan,Jaipur,Beauty & Personal Care,Face Serum,3,811.71,38.4,1500.04,697.55,802.49,53.5,Net Banking,Standard,Delivered,Corporate
+ORD-1068,C1059,Vijay Agarwal,2024-02-16,East,West Bengal,Durgapur,Home & Kitchen,Bed Sheet Set,3,1701.64,10.5,4568.9,3257.65,1311.25,28.7,EMI,Express,Returned,Small Business
+ORD-1049,C1053,Sneha Pillai,2024-02-17,West,Maharashtra,Mumbai,Books & Stationery,Coloring Book,2,1093.7,9.7,1975.22,795.49,1179.73,59.73,Credit Card,Standard,Delivered,Consumer
+ORD-1092,C1043,Kavita Mehta,2024-02-18,East,Bihar,Gaya,Beauty & Personal Care,Nail Polish Kit,5,351.61,28.9,1249.97,542.06,707.91,56.63,Cash on Delivery,Economy,Delivered,Corporate
+ORD-1167,C1073,Rohan Rao,2024-02-18,West,Maharashtra,Nagpur,Electronics,Tablet,1,40388.78,8.7,36874.96,27909.75,8965.21,24.31,Cash on Delivery,Standard,Delivered,Home Office
+ORD-1040,C1079,Smita Kulkarni,2024-02-20,South,Kerala,Thiruvananthapuram,Beauty & Personal Care,Perfume Set,5,3961.62,19.2,16004.94,8086.61,7918.33,49.47,Credit Card,Express,Delivered,Consumer
+ORD-1137,C1061,Sneha Saxena,2024-02-21,South,Tamil Nadu,Chennai,Books & Stationery,Art Supplies Kit,2,993.12,5.8,1871.04,903.08,967.96,51.73,EMI,Express,Delivered,Consumer
+ORD-1251,C1073,Rohan Rao,2024-02-21,West,Gujarat,Ahmedabad,Sports & Fitness,Skipping Rope,5,26591.53,28.5,95064.72,63359.41,31705.31,33.35,Debit Card,Same Day,Delivered,Home Office
+ORD-1310,C1031,Nikhil Chauhan,2024-02-21,North,Haryana,Gurugram,Fashion,Sunglasses,4,4772.24,15.7,16091.99,9137.42,6954.57,43.22,Debit Card,Standard,Delivered,Home Office
+ORD-1260,C1075,Mohan Joshi,2024-02-22,West,Rajasthan,Jodhpur,Home & Kitchen,Non-Stick Cookware Set,4,7693.2,15.4,26033.79,16588.56,9445.23,36.28,UPI,Same Day,In Transit,Corporate
+ORD-1059,C1062,Kavita Sinha,2024-02-24,West,Rajasthan,Udaipur,Home & Kitchen,Ceiling Fan,3,11529.53,11.0,30783.85,22160.13,8623.72,28.01,Credit Card,Economy,In Transit,Consumer
+ORD-1145,C1073,Rohan Rao,2024-02-27,West,Gujarat,Ahmedabad,Books & Stationery,Coloring Book,1,835.71,12.9,727.9,343.83,384.07,52.76,UPI,Express,In Transit,Home Office
+ORD-1301,C1049,Rekha Singh,2024-02-28,East,Jharkhand,Ranchi,Books & Stationery,Coloring Book,5,441.36,5.6,2083.22,1202.29,880.93,42.29,Net Banking,Same Day,In Transit,Corporate
+ORD-1013,C1004,Rohan Das,2024-02-29,East,West Bengal,Howrah,Home & Kitchen,Bed Sheet Set,4,17052.05,21.9,53270.6,30516.22,22754.38,42.71,Debit Card,Express,In Transit,Consumer
+ORD-1014,C1066,Akash Verma,2024-02-29,East,West Bengal,Kolkata,Sports & Fitness,Cricket Bat,3,25553.37,12.8,66847.62,40718.06,26129.56,39.09,Net Banking,Express,Delivered,Corporate
+ORD-1212,C1023,Swati Verma,2024-03-02,West,Gujarat,Ahmedabad,Fashion,Casual T-Shirt,4,845.14,23.4,2589.51,1071.43,1518.08,58.62,UPI,Express,Returned,Small Business
+ORD-1227,C1043,Kavita Mehta,2024-03-03,East,West Bengal,Kolkata,Electronics,Smartwatch,4,64896.45,1.8,254913.26,196144.3,58768.96,23.05,UPI,Economy,Delivered,Corporate
+ORD-1009,C1056,Mohan Mishra,2024-03-06,West,Maharashtra,Mumbai,Electronics,Tablet,5,3653.43,7.4,16915.38,12018.46,4896.92,28.95,UPI,Same Day,Delivered,Home Office
+ORD-1093,C1051,Pooja Kumar,2024-03-07,East,Odisha,Cuttack,Electronics,Keyboard,2,73406.32,6.2,137710.26,100695.25,37015.01,26.88,Cash on Delivery,Standard,Delivered,Small Business
+ORD-1070,C1004,Rohan Das,2024-03-08,South,Karnataka,Mysuru,Fashion,Jeans,5,1478.07,10.2,6636.53,3751.39,2885.14,43.47,UPI,Same Day,Cancelled,Consumer
+ORD-1062,C1026,Rohan Tiwari,2024-03-08,West,Maharashtra,Nagpur,Home & Kitchen,Pressure Cooker,1,22758.77,11.5,20141.51,11911.9,8229.61,40.86,Cash on Delivery,Same Day,In Transit,Small Business
+ORD-1279,C1015,Rasika Verma,2024-03-08,West,Goa,Margao,Home & Kitchen,Ceiling Fan,4,20037.5,18.0,65723.0,44384.06,21338.94,32.47,EMI,Standard,Cancelled,Corporate
+ORD-1048,C1071,Deepa Chopra,2024-03-08,North,Uttar Pradesh,Agra,Home & Kitchen,Pillow Set,4,15710.14,20.2,50146.77,27319.1,22827.67,45.52,Debit Card,Economy,Returned,Small Business
+ORD-1149,C1070,Bhavna Sinha,2024-03-09,South,Kerala,Thiruvananthapuram,Beauty & Personal Care,Face Wash,4,1596.24,30.5,4437.55,2287.33,2150.22,48.46,EMI,Same Day,Delivered,Corporate
+ORD-1229,C1050,Ananya Patel,2024-03-11,North,Uttar Pradesh,Agra,Home & Kitchen,LED Bulbs Pack,4,22092.91,14.6,75469.38,39191.15,36278.23,48.07,Net Banking,Express,Returned,Small Business
+ORD-1206,C1041,Pankaj Shah,2024-03-12,West,Gujarat,Ahmedabad,Electronics,Tablet,1,47494.25,7.7,43837.19,34747.54,9089.65,20.74,Credit Card,Same Day,Returned,Home Office
+ORD-1220,C1008,Priya Shah,2024-03-13,North,Punjab,Chandigarh,Books & Stationery,Notebook Set,1,387.27,19.7,310.98,150.5,160.48,51.6,EMI,Same Day,Delivered,Consumer
+ORD-1248,C1080,Vijay Das,2024-03-16,East,West Bengal,Howrah,Books & Stationery,Business Strategy Book,5,899.71,12.8,3922.74,2017.45,1905.29,48.57,UPI,Economy,Delivered,Consumer
+ORD-1099,C1066,Akash Verma,2024-03-16,East,West Bengal,Durgapur,Sports & Fitness,Resistance Bands Set,3,3118.85,9.0,8514.46,4945.86,3568.6,41.91,Net Banking,Standard,Delivered,Corporate
+ORD-1246,C1008,Priya Shah,2024-03-18,East,Odisha,Cuttack,Electronics,Bluetooth Speaker,4,37632.59,4.5,143756.49,93975.4,49781.09,34.63,EMI,Standard,Delivered,Consumer
+ORD-1088,C1041,Pankaj Shah,2024-03-18,West,Goa,Vasco da Gama,Sports & Fitness,Football,5,22576.12,29.7,79355.06,44294.21,35060.85,44.18,Net Banking,Standard,Delivered,Home Office
+ORD-1010,C1080,Vijay Das,2024-03-20,North,Haryana,Gurugram,Books & Stationery,Self-Help Book,1,595.15,13.4,515.4,296.33,219.07,42.5,Credit Card,Express,Cancelled,Consumer
+ORD-1242,C1056,Mohan Mishra,2024-03-21,North,Haryana,Hisar,Sports & Fitness,Football,1,15210.05,21.3,11970.31,7293.72,4676.59,39.07,UPI,Standard,Delivered,Home Office
+ORD-1185,C1071,Deepa Chopra,2024-03-22,North,Delhi,Dwarka,Books & Stationery,Data Science Handbook,2,1401.89,16.1,2352.37,1183.71,1168.66,49.68,Debit Card,Economy,Delivered,Small Business
+ORD-1011,C1035,Yash Saxena,2024-03-22,South,Kerala,Kochi,Fashion,Sneakers,4,4070.51,30.9,11250.89,6780.77,4470.12,39.73,EMI,Standard,Delivered,Consumer
+ORD-1201,C1039,Lata Mishra,2024-03-22,North,Uttar Pradesh,Kanpur,Beauty & Personal Care,Face Serum,4,928.93,30.7,2574.99,986.17,1588.82,61.7,Debit Card,Standard,Returned,Consumer
+ORD-1241,C1049,Rekha Singh,2024-03-23,West,Maharashtra,Mumbai,Home & Kitchen,Air Fryer,3,6675.97,7.1,18605.93,10702.09,7903.84,42.48,EMI,Standard,In Transit,Corporate
+ORD-1008,C1034,Sai Kulkarni,2024-03-23,West,Rajasthan,Jaipur,Electronics,DSLR Camera,3,4291.67,6.7,12012.38,7521.72,4490.66,37.38,EMI,Economy,In Transit,Corporate
+ORD-1129,C1041,Pankaj Shah,2024-03-24,East,Jharkhand,Dhanbad,Beauty & Personal Care,Hair Dryer,5,3588.56,14.2,15394.92,8972.81,6422.11,41.72,Net Banking,Same Day,In Transit,Home Office
+ORD-1267,C1027,Tushar Shah,2024-03-27,East,Odisha,Bhubaneswar,Beauty & Personal Care,Nail Polish Kit,2,1356.64,11.7,2395.83,1109.3,1286.53,53.7,Cash on Delivery,Express,Delivered,Consumer
+ORD-1057,C1024,Vidya Reddy,2024-03-28,East,West Bengal,Howrah,Home & Kitchen,Water Purifier,4,3810.13,15.6,12863.0,8033.0,4830.0,37.55,Credit Card,Standard,In Transit,Home Office
+ORD-1188,C1080,Vijay Das,2024-03-29,West,Rajasthan,Udaipur,Beauty & Personal Care,Lipstick Pack,4,2409.97,20.4,7673.34,4307.66,3365.68,43.86,EMI,Same Day,In Transit,Consumer
+ORD-1141,C1025,Suman Kulkarni,2024-03-30,South,Kerala,Kozhikode,Home & Kitchen,Pressure Cooker,1,18468.12,20.8,14626.75,9140.43,5486.32,37.51,Cash on Delivery,Economy,Cancelled,Small Business
+ORD-1232,C1023,Swati Verma,2024-03-31,South,Telangana,Nizamabad,Books & Stationery,Business Strategy Book,2,905.97,19.7,1454.99,695.03,759.96,52.23,Credit Card,Same Day,Cancelled,Small Business
+ORD-1155,C1049,Rekha Singh,2024-04-04,West,Maharashtra,Pune,Books & Stationery,Planner,5,546.23,11.2,2425.26,1042.48,1382.78,57.02,Cash on Delivery,Economy,Delivered,Corporate
+ORD-1052,C1042,Vivaan Kapoor,2024-04-06,South,Kerala,Kozhikode,Beauty & Personal Care,Nail Polish Kit,3,2274.88,26.3,5029.76,2332.98,2696.78,53.62,EMI,Express,In Transit,Consumer
+ORD-1036,C1024,Vidya Reddy,2024-04-08,East,Bihar,Patna,Electronics,Smartwatch,3,10268.74,10.7,27509.95,20699.53,6810.42,24.76,Credit Card,Economy,Delivered,Home Office
+ORD-1019,C1074,Rohan Chopra,2024-04-09,South,Tamil Nadu,Chennai,Electronics,Smartwatch,4,49212.9,15.4,166536.45,115090.55,51445.9,30.89,EMI,Economy,Delivered,Small Business
+ORD-1187,C1042,Vivaan Kapoor,2024-04-10,South,Tamil Nadu,Coimbatore,Books & Stationery,Data Science Handbook,5,242.45,18.1,992.83,434.26,558.57,56.26,Net Banking,Standard,Delivered,Consumer
+ORD-1178,C1073,Rohan Rao,2024-04-12,East,Jharkhand,Dhanbad,Fashion,Sneakers,4,1617.41,28.6,4619.32,2269.26,2350.06,50.87,Cash on Delivery,Express,Returned,Home Office
+ORD-1268,C1069,Divya Mehta,2024-04-12,North,Uttar Pradesh,Agra,Beauty & Personal Care,Sunscreen SPF50,4,1801.75,24.3,5455.7,1915.86,3539.84,64.88,EMI,Same Day,Delivered,Small Business
+ORD-1234,C1079,Smita Kulkarni,2024-04-13,North,Delhi,New Delhi,Fashion,Sunglasses,2,393.66,19.3,635.37,306.84,328.53,51.71,Credit Card,Same Day,Returned,Consumer
+ORD-1207,C1039,Lata Mishra,2024-04-15,North,Uttar Pradesh,Agra,Sports & Fitness,Skipping Rope,5,10115.24,28.5,36161.98,18255.59,17906.39,49.52,Cash on Delivery,Express,Returned,Consumer
+ORD-1308,C1045,Akash Saxena,2024-04-18,North,Delhi,Rohini,Sports & Fitness,Cricket Bat,5,19253.89,7.1,89434.32,48098.63,41335.69,46.22,Net Banking,Express,Delivered,Small Business
+ORD-1081,C1035,Yash Saxena,2024-04-20,South,Karnataka,Hubli,Electronics,Bluetooth Speaker,4,53225.54,9.7,192250.65,132347.05,59903.6,31.16,Cash on Delivery,Standard,Delivered,Consumer
+ORD-1069,C1076,Meena Iyer,2024-04-20,North,Delhi,Dwarka,Fashion,Jeans,5,1264.47,29.9,4431.97,2386.85,2045.12,46.14,Credit Card,Same Day,Cancelled,Consumer
+ORD-1193,C1070,Bhavna Sinha,2024-04-21,North,Delhi,Dwarka,Sports & Fitness,Protein Shaker,5,28826.86,6.0,135486.24,85277.27,50208.97,37.06,Net Banking,Standard,Returned,Corporate
+ORD-1067,C1048,Pankaj Chopra,2024-04-21,South,Kerala,Kozhikode,Electronics,LED Monitor,5,33122.78,19.0,134147.26,81366.12,52781.14,39.35,Net Banking,Economy,Delivered,Small Business
+ORD-1283,C1065,Pooja Rao,2024-04-24,South,Kerala,Thiruvananthapuram,Fashion,Casual T-Shirt,4,1806.98,14.9,6150.96,2888.12,3262.84,53.05,Cash on Delivery,Economy,Delivered,Consumer
+ORD-1295,C1072,Sunita Jain,2024-04-24,North,Haryana,Gurugram,Sports & Fitness,Yoga Mat,3,28528.11,7.6,79079.92,51895.91,27184.01,34.38,EMI,Economy,Delivered,Corporate
+ORD-1216,C1054,Mohan Singh,2024-04-24,North,Punjab,Ludhiana,Beauty & Personal Care,Hair Dryer,2,3734.97,35.7,4803.17,2344.99,2458.18,51.18,Debit Card,Express,Delivered,Consumer
+ORD-1100,C1048,Pankaj Chopra,2024-04-24,West,Rajasthan,Jaipur,Beauty & Personal Care,Face Serum,4,2082.73,17.1,6906.33,4134.35,2771.98,40.14,UPI,Same Day,Delivered,Small Business
+ORD-1231,C1075,Mohan Joshi,2024-04-29,North,Haryana,Hisar,Fashion,Formal Shirt,3,575.38,34.7,1127.17,600.06,527.11,46.76,Credit Card,Standard,Delivered,Corporate
+ORD-1022,C1037,Sai Malhotra,2024-04-30,West,Goa,Margao,Fashion,Sports Shoes,5,2577.61,12.2,11315.71,5770.65,5545.06,49.0,Debit Card,Same Day,Delivered,Consumer
+ORD-1194,C1016,Rasika Iyer,2024-05-01,South,Telangana,Hyderabad,Beauty & Personal Care,Perfume Set,3,3469.47,12.6,9096.95,5151.81,3945.14,43.37,Credit Card,Same Day,Cancelled,Small Business
+ORD-1116,C1018,Suman Tiwari,2024-05-01,East,Bihar,Patna,Books & Stationery,Fiction Novel,3,812.26,6.8,2271.08,999.72,1271.36,55.98,Net Banking,Standard,Delivered,Home Office
+ORD-1123,C1041,Pankaj Shah,2024-05-03,South,Telangana,Nizamabad,Home & Kitchen,Water Purifier,4,3443.0,12.4,12064.27,7522.84,4541.43,37.64,Net Banking,Standard,Delivered,Home Office
+ORD-1125,C1059,Vijay Agarwal,2024-05-03,South,Kerala,Kozhikode,Beauty & Personal Care,Face Wash,3,2064.88,12.7,5407.92,2424.43,2983.49,55.17,Credit Card,Same Day,Delivered,Small Business
+ORD-1174,C1072,Sunita Jain,2024-05-04,East,West Bengal,Durgapur,Sports & Fitness,Protein Shaker,4,629.45,15.3,2132.58,1365.39,767.19,35.97,Cash on Delivery,Express,Returned,Corporate
+ORD-1158,C1062,Kavita Sinha,2024-05-04,South,Kerala,Kochi,Home & Kitchen,Vacuum Cleaner,1,5452.83,8.8,4972.98,3297.71,1675.27,33.69,EMI,Express,Delivered,Consumer
+ORD-1050,C1061,Sneha Saxena,2024-05-04,North,Uttar Pradesh,Kanpur,Books & Stationery,Notebook Set,5,1087.58,11.2,4828.86,2397.53,2431.33,50.35,Net Banking,Express,Delivered,Consumer
+ORD-1039,C1011,Manish Jain,2024-05-07,North,Punjab,Ludhiana,Electronics,Keyboard,1,12816.78,16.2,10740.46,8483.09,2257.37,21.02,UPI,Economy,In Transit,Consumer
+ORD-1113,C1036,Rajesh Nair,2024-05-07,South,Kerala,Thiruvananthapuram,Home & Kitchen,LED Bulbs Pack,1,14433.26,15.6,12181.67,7157.55,5024.12,41.24,UPI,Standard,Returned,Consumer
+ORD-1038,C1007,Arjun Patel,2024-05-09,South,Kerala,Kochi,Electronics,Keyboard,3,37976.24,8.8,103902.99,66172.98,37730.01,36.31,Net Banking,Standard,Cancelled,Corporate
+ORD-1161,C1044,Vivaan Bose,2024-05-11,South,Tamil Nadu,Coimbatore,Fashion,Saree,5,4216.8,20.0,16867.2,9507.23,7359.97,43.63,Net Banking,Economy,Delivered,Home Office
+ORD-1239,C1045,Akash Saxena,2024-05-11,South,Karnataka,Hubli,Books & Stationery,Fountain Pen,4,115.95,8.1,426.23,229.58,196.65,46.14,UPI,Standard,Delivered,Small Business
+ORD-1276,C1013,Suman Mishra,2024-05-11,North,Delhi,Rohini,Books & Stationery,Sticky Notes Pack,2,1429.22,16.7,2381.08,988.17,1392.91,58.5,EMI,Express,Delivered,Consumer
+ORD-1262,C1038,Rekha Reddy,2024-05-12,South,Tamil Nadu,Chennai,Sports & Fitness,Cricket Bat,3,23890.3,23.0,55186.59,34103.77,21082.82,38.2,Net Banking,Economy,Delivered,Corporate
+ORD-1142,C1001,Kavita Gupta,2024-05-13,West,Rajasthan,Jaipur,Beauty & Personal Care,Moisturiser SPF,2,3929.49,24.3,5949.25,3474.1,2475.15,41.6,Net Banking,Express,Delivered,Home Office
+ORD-1004,C1041,Pankaj Shah,2024-05-13,North,Uttar Pradesh,Agra,Sports & Fitness,Yoga Mat,5,3053.02,21.4,11998.37,7219.91,4778.46,39.83,Credit Card,Same Day,Delivered,Home Office
+ORD-1261,C1036,Rajesh Nair,2024-05-13,East,Bihar,Muzaffarpur,Electronics,LED Monitor,1,27433.67,5.5,25924.82,17240.72,8684.1,33.5,EMI,Same Day,Delivered,Consumer
+ORD-1213,C1017,Sai Agarwal,2024-05-17,North,Uttar Pradesh,Kanpur,Home & Kitchen,Bed Sheet Set,5,19618.08,19.4,79060.86,42434.48,36626.38,46.33,EMI,Standard,Cancelled,Corporate
+ORD-1140,C1060,Divya Gupta,2024-05-19,North,Haryana,Faridabad,Beauty & Personal Care,Shampoo Combo,5,2051.56,38.2,6339.32,3567.55,2771.77,43.72,Credit Card,Standard,Delivered,Consumer
+ORD-1108,C1043,Kavita Mehta,2024-05-19,West,Rajasthan,Jaipur,Books & Stationery,Self-Help Book,3,599.76,16.7,1498.8,859.05,639.75,42.68,UPI,Same Day,Delivered,Corporate
+ORD-1228,C1024,Vidya Reddy,2024-05-20,South,Kerala,Kozhikode,Beauty & Personal Care,Face Wash,1,1623.51,22.8,1253.35,549.58,703.77,56.15,Debit Card,Economy,Delivered,Home Office
+ORD-1196,C1008,Priya Shah,2024-05-21,East,Bihar,Muzaffarpur,Home & Kitchen,Bed Sheet Set,1,3562.6,20.0,2850.08,1683.12,1166.96,40.94,EMI,Express,Returned,Consumer
+ORD-1045,C1057,Smita Mehta,2024-05-22,South,Karnataka,Hubli,Home & Kitchen,Pillow Set,1,19125.1,8.5,17499.47,10747.69,6751.78,38.58,Credit Card,Economy,Returned,Small Business
+ORD-1127,C1071,Deepa Chopra,2024-05-23,West,Maharashtra,Nagpur,Sports & Fitness,Treadmill,3,19452.16,6.8,54388.24,32130.72,22257.52,40.92,Cash on Delivery,Standard,Delivered,Small Business
+ORD-1114,C1079,Smita Kulkarni,2024-05-26,South,Kerala,Kozhikode,Beauty & Personal Care,Shampoo Combo,1,1157.84,17.8,951.74,439.29,512.45,53.84,EMI,Economy,Delivered,Consumer
+ORD-1293,C1069,Divya Mehta,2024-05-26,North,Haryana,Hisar,Beauty & Personal Care,Lipstick Pack,5,3779.29,31.3,12981.86,6731.88,6249.98,48.14,Net Banking,Standard,In Transit,Small Business
+ORD-1041,C1061,Sneha Saxena,2024-05-29,North,Uttar Pradesh,Lucknow,Fashion,Handbag,1,1035.7,17.3,856.52,490.22,366.3,42.77,UPI,Express,Delivered,Consumer
+ORD-1103,C1019,Sneha Malhotra,2024-05-29,West,Maharashtra,Mumbai,Beauty & Personal Care,Lipstick Pack,5,213.28,25.5,794.47,326.12,468.35,58.95,Net Banking,Standard,In Transit,Small Business
+ORD-1051,C1037,Sai Malhotra,2024-06-01,South,Tamil Nadu,Chennai,Home & Kitchen,Ceiling Fan,3,23369.36,15.2,59451.65,40458.09,18993.56,31.95,Cash on Delivery,Economy,Cancelled,Consumer
+ORD-1175,C1054,Mohan Singh,2024-06-02,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,3,12429.47,6.3,34939.24,20810.82,14128.42,40.44,Net Banking,Standard,Delivered,Consumer
+ORD-1204,C1048,Pankaj Chopra,2024-06-02,West,Gujarat,Surat,Electronics,Smartwatch,4,7875.02,16.1,26428.57,16402.64,10025.93,37.94,Credit Card,Economy,Cancelled,Small Business
+ORD-1273,C1002,Nilesh Singh,2024-06-03,West,Goa,Panaji,Sports & Fitness,Cycling Gloves,4,24625.01,10.1,88551.54,55205.97,33345.57,37.66,Net Banking,Standard,Returned,Small Business
+ORD-1094,C1047,Rasika Shah,2024-06-07,West,Rajasthan,Jaipur,Books & Stationery,Art Supplies Kit,1,1004.43,11.4,889.92,420.37,469.55,52.76,Credit Card,Express,Delivered,Corporate
+ORD-1107,C1041,Pankaj Shah,2024-06-07,South,Karnataka,Hubli,Beauty & Personal Care,Face Serum,3,926.13,33.7,1842.07,1052.65,789.42,42.86,Cash on Delivery,Economy,Cancelled,Home Office
+ORD-1253,C1039,Lata Mishra,2024-06-08,West,Rajasthan,Udaipur,Fashion,Formal Shirt,4,4627.92,31.9,12606.45,5106.35,7500.1,59.49,Debit Card,Economy,Cancelled,Consumer
+ORD-1177,C1062,Kavita Sinha,2024-06-09,East,Jharkhand,Jamshedpur,Beauty & Personal Care,Lipstick Pack,2,1306.68,28.1,1879.01,984.27,894.74,47.62,Credit Card,Economy,Delivered,Consumer
+ORD-1222,C1042,Vivaan Kapoor,2024-06-11,North,Punjab,Chandigarh,Fashion,Ethnic Kurta,3,1526.66,14.5,3915.88,2350.33,1565.55,39.98,Net Banking,Same Day,Delivered,Consumer
+ORD-1184,C1058,Tushar Jain,2024-06-12,South,Telangana,Warangal,Home & Kitchen,LED Bulbs Pack,2,13123.65,12.0,23097.62,12044.88,11052.74,47.85,UPI,Same Day,Delivered,Small Business
+ORD-1302,C1025,Suman Kulkarni,2024-06-13,East,West Bengal,Durgapur,Home & Kitchen,Bed Sheet Set,5,11249.81,5.9,52930.36,36925.38,16004.98,30.24,Cash on Delivery,Standard,Delivered,Small Business
+ORD-1230,C1065,Pooja Rao,2024-06-13,South,Karnataka,Mysuru,Books & Stationery,Fountain Pen,4,862.32,12.3,3025.02,1762.18,1262.84,41.75,Net Banking,Same Day,Delivered,Consumer
+ORD-1026,C1059,Vijay Agarwal,2024-06-16,North,Delhi,Rohini,Beauty & Personal Care,Hair Dryer,4,849.66,17.8,2793.68,1206.42,1587.26,56.82,Debit Card,Economy,Delivered,Small Business
+ORD-1124,C1021,Rohan Verma,2024-06-16,West,Gujarat,Ahmedabad,Electronics,Laptop,3,75674.48,17.3,187748.38,128349.85,59398.53,31.64,Cash on Delivery,Same Day,Delivered,Corporate
+ORD-1169,C1070,Bhavna Sinha,2024-06-18,West,Maharashtra,Pune,Fashion,Sunglasses,2,2963.47,30.5,4119.22,2344.9,1774.32,43.07,Net Banking,Express,Cancelled,Corporate
+ORD-1275,C1062,Kavita Sinha,2024-06-18,South,Telangana,Nizamabad,Beauty & Personal Care,Perfume Set,2,301.71,24.9,453.17,182.14,271.03,59.81,Credit Card,Standard,Delivered,Consumer
+ORD-1035,C1071,Deepa Chopra,2024-06-18,South,Kerala,Kozhikode,Fashion,Sports Shoes,5,2034.4,21.6,7974.85,3875.29,4099.56,51.41,Debit Card,Economy,Delivered,Small Business
+ORD-1007,C1027,Tushar Shah,2024-06-24,East,West Bengal,Kolkata,Home & Kitchen,Mixer Grinder,1,18611.93,8.1,17104.36,9612.42,7491.94,43.8,Credit Card,Same Day,In Transit,Consumer
+ORD-1133,C1069,Divya Mehta,2024-06-24,South,Tamil Nadu,Madurai,Home & Kitchen,LED Bulbs Pack,5,9545.25,24.1,36224.22,21775.32,14448.9,39.89,Cash on Delivery,Same Day,Returned,Small Business
+ORD-1270,C1018,Suman Tiwari,2024-06-24,North,Delhi,Dwarka,Home & Kitchen,LED Bulbs Pack,5,14989.97,11.8,66105.77,45966.93,20138.84,30.46,Net Banking,Same Day,Cancelled,Home Office
+ORD-1266,C1026,Rohan Tiwari,2024-06-24,South,Karnataka,Hubli,Beauty & Personal Care,Shampoo Combo,3,1740.46,36.1,3336.46,1293.53,2042.93,61.23,Net Banking,Economy,Delivered,Small Business
+ORD-1135,C1051,Pooja Kumar,2024-06-25,West,Rajasthan,Udaipur,Books & Stationery,Notebook Set,3,270.62,15.1,689.27,328.05,361.22,52.41,Credit Card,Same Day,Delivered,Small Business
+ORD-1257,C1045,Akash Saxena,2024-06-25,North,Uttar Pradesh,Kanpur,Beauty & Personal Care,Lipstick Pack,4,833.7,36.1,2130.94,1058.48,1072.46,50.33,Credit Card,Same Day,Returned,Small Business
+ORD-1119,C1029,Usha Sinha,2024-06-26,South,Kerala,Kozhikode,Electronics,Smartphone,5,12918.82,3.3,62462.49,41508.33,20954.16,33.55,Cash on Delivery,Same Day,Cancelled,Corporate
+ORD-1172,C1041,Pankaj Shah,2024-07-03,South,Karnataka,Bengaluru,Home & Kitchen,Pressure Cooker,4,17849.59,17.7,58760.85,38942.24,19818.61,33.73,UPI,Standard,Delivered,Home Office
+ORD-1235,C1068,Divya Saxena,2024-07-05,South,Telangana,Hyderabad,Electronics,Tablet,5,56611.95,2.8,275134.08,171184.06,103950.02,37.78,UPI,Same Day,Returned,Corporate
+ORD-1096,C1053,Sneha Pillai,2024-07-05,South,Kerala,Kochi,Fashion,Jeans,5,4102.51,10.0,18461.3,9404.53,9056.77,49.06,EMI,Express,Delivered,Consumer
+ORD-1126,C1034,Sai Kulkarni,2024-07-06,North,Haryana,Faridabad,Sports & Fitness,Football,3,18876.84,26.2,41793.32,24138.44,17654.88,42.24,Net Banking,Same Day,Delivered,Corporate
+ORD-1089,C1008,Priya Shah,2024-07-07,West,Rajasthan,Jodhpur,Sports & Fitness,Yoga Mat,3,17855.32,12.8,46709.52,27154.32,19555.2,41.87,Debit Card,Standard,Returned,Consumer
+ORD-1097,C1025,Suman Kulkarni,2024-07-07,East,Jharkhand,Ranchi,Sports & Fitness,Treadmill,3,33802.76,24.6,76461.84,50672.44,25789.4,33.73,EMI,Economy,Delivered,Small Business
+ORD-1066,C1059,Vijay Agarwal,2024-07-08,South,Karnataka,Bengaluru,Home & Kitchen,LED Bulbs Pack,1,2610.36,22.7,2017.81,1069.13,948.68,47.02,EMI,Economy,In Transit,Small Business
+ORD-1278,C1012,Sunita Reddy,2024-07-09,North,Delhi,New Delhi,Books & Stationery,Fiction Novel,3,600.54,11.6,1592.63,835.11,757.52,47.56,Debit Card,Express,Delivered,Small Business
+ORD-1226,C1052,Rohan Verma,2024-07-09,West,Maharashtra,Mumbai,Electronics,Laptop,1,66565.49,19.7,53452.09,33468.65,19983.44,37.39,EMI,Standard,In Transit,Corporate
+ORD-1075,C1033,Suman Singh,2024-07-10,West,Gujarat,Surat,Home & Kitchen,LED Bulbs Pack,4,10516.54,6.9,39163.59,23258.79,15904.8,40.61,Credit Card,Economy,Delivered,Corporate
+ORD-1131,C1080,Vijay Das,2024-07-13,West,Rajasthan,Udaipur,Sports & Fitness,Skipping Rope,2,25304.72,19.6,40689.99,21593.86,19096.13,46.93,Credit Card,Express,Delivered,Consumer
+ORD-1306,C1057,Smita Mehta,2024-07-14,North,Delhi,Dwarka,Sports & Fitness,Resistance Bands Set,3,27583.84,12.5,72407.58,37331.24,35076.34,48.44,Net Banking,Standard,Delivered,Small Business
+ORD-1112,C1047,Rasika Shah,2024-07-15,South,Karnataka,Bengaluru,Sports & Fitness,Football,1,4592.8,10.9,4092.18,2521.31,1570.87,38.39,Cash on Delivery,Standard,In Transit,Corporate
+ORD-1269,C1014,Rohan Dubey,2024-07-15,East,Odisha,Bhubaneswar,Books & Stationery,Business Strategy Book,2,416.77,18.2,681.84,315.3,366.54,53.76,Cash on Delivery,Same Day,Delivered,Corporate
+ORD-1245,C1070,Bhavna Sinha,2024-07-17,East,West Bengal,Howrah,Electronics,Bluetooth Speaker,4,38098.8,17.9,125116.46,81701.16,43415.3,34.7,Credit Card,Same Day,Delivered,Corporate
+ORD-1156,C1018,Suman Tiwari,2024-07-17,South,Telangana,Nizamabad,Fashion,Jacket,1,2943.21,34.0,1942.52,1047.64,894.88,46.07,Credit Card,Same Day,Delivered,Home Office
+ORD-1211,C1042,Vivaan Kapoor,2024-07-19,South,Telangana,Hyderabad,Home & Kitchen,Mixer Grinder,5,23038.94,24.5,86972.0,46458.96,40513.04,46.58,Cash on Delivery,Standard,Delivered,Consumer
+ORD-1243,C1007,Arjun Patel,2024-07-20,South,Tamil Nadu,Coimbatore,Books & Stationery,Art Supplies Kit,5,471.37,9.2,2140.02,957.68,1182.34,55.25,Cash on Delivery,Economy,Delivered,Corporate
+ORD-1176,C1001,Kavita Gupta,2024-07-21,East,Odisha,Rourkela,Books & Stationery,Sticky Notes Pack,5,963.34,11.9,4243.51,1812.39,2431.12,57.29,Debit Card,Economy,Cancelled,Home Office
+ORD-1029,C1049,Rekha Singh,2024-07-22,North,Uttar Pradesh,Kanpur,Electronics,Keyboard,1,74367.86,11.5,65815.56,51441.79,14373.77,21.84,EMI,Express,Delivered,Corporate
+ORD-1170,C1077,Ananya Verma,2024-07-22,North,Haryana,Gurugram,Electronics,DSLR Camera,2,67223.03,6.8,125303.73,94454.09,30849.64,24.62,Debit Card,Standard,Returned,Small Business
+ORD-1165,C1035,Yash Saxena,2024-07-22,South,Karnataka,Bengaluru,Sports & Fitness,Dumbbell Pair,2,6879.24,18.2,11254.44,7278.68,3975.76,35.33,UPI,Same Day,Delivered,Consumer
+ORD-1152,C1006,Neha Tiwari,2024-07-24,South,Karnataka,Bengaluru,Sports & Fitness,Yoga Mat,4,21002.91,22.6,65025.01,33082.24,31942.77,49.12,Net Banking,Express,In Transit,Home Office
+ORD-1166,C1012,Sunita Reddy,2024-07-26,West,Gujarat,Vadodara,Fashion,Sports Shoes,1,3372.56,30.7,2337.18,1378.69,958.49,41.01,Net Banking,Economy,In Transit,Small Business
+ORD-1225,C1004,Rohan Das,2024-07-26,North,Uttar Pradesh,Kanpur,Beauty & Personal Care,Shampoo Combo,1,2757.16,17.8,2266.39,1354.55,911.84,40.23,Net Banking,Express,Delivered,Consumer
+ORD-1173,C1066,Akash Verma,2024-07-27,East,Jharkhand,Jamshedpur,Home & Kitchen,Mixer Grinder,2,2364.97,13.6,4086.67,2544.1,1542.57,37.75,UPI,Standard,Delivered,Corporate
+ORD-1288,C1014,Rohan Dubey,2024-07-31,East,Odisha,Bhubaneswar,Electronics,DSLR Camera,2,36998.04,15.6,62452.69,46424.68,16028.01,25.66,UPI,Standard,Cancelled,Corporate
+ORD-1183,C1038,Rekha Reddy,2024-07-31,East,Jharkhand,Jamshedpur,Books & Stationery,Coloring Book,5,311.04,20.0,1244.16,617.79,626.37,50.34,UPI,Standard,Cancelled,Corporate
+ORD-1191,C1063,Suman Sinha,2024-07-31,East,West Bengal,Howrah,Fashion,Ethnic Kurta,4,4830.0,20.2,15417.36,8074.73,7342.63,47.63,EMI,Economy,Delivered,Small Business
+ORD-1290,C1050,Ananya Patel,2024-08-02,South,Tamil Nadu,Madurai,Fashion,Casual T-Shirt,4,3390.35,23.2,10415.16,5004.08,5411.08,51.95,Cash on Delivery,Express,Delivered,Small Business
+ORD-1189,C1050,Ananya Patel,2024-08-02,North,Uttar Pradesh,Kanpur,Electronics,Smartwatch,3,10062.35,7.5,27923.02,17543.24,10379.78,37.17,Cash on Delivery,Express,In Transit,Small Business
+ORD-1024,C1050,Ananya Patel,2024-08-02,West,Goa,Vasco da Gama,Books & Stationery,Business Strategy Book,5,632.53,5.1,3001.35,1411.69,1589.66,52.96,Cash on Delivery,Express,Delivered,Small Business
+ORD-1150,C1070,Bhavna Sinha,2024-08-05,South,Kerala,Kozhikode,Fashion,Ethnic Kurta,1,3854.04,34.4,2528.25,1303.95,1224.3,48.42,Cash on Delivery,Economy,Cancelled,Corporate
+ORD-1042,C1026,Rohan Tiwari,2024-08-05,East,Jharkhand,Ranchi,Books & Stationery,Self-Help Book,3,1202.96,14.4,3089.2,1644.19,1445.01,46.78,UPI,Express,Returned,Small Business
+ORD-1110,C1078,Kavita Sinha,2024-08-06,West,Gujarat,Vadodara,Home & Kitchen,Water Purifier,1,2185.71,18.2,1787.91,1014.51,773.4,43.26,Credit Card,Economy,Delivered,Consumer
+ORD-1277,C1041,Pankaj Shah,2024-08-06,East,Bihar,Gaya,Electronics,Smartphone,2,70031.92,17.0,116252.99,78127.0,38125.99,32.8,EMI,Standard,Delivered,Home Office
+ORD-1202,C1030,Amit Shah,2024-08-07,East,Bihar,Patna,Home & Kitchen,Pressure Cooker,1,10029.27,11.1,8916.02,5829.98,3086.04,34.61,EMI,Standard,Returned,Consumer
+ORD-1030,C1069,Divya Mehta,2024-08-07,South,Karnataka,Hubli,Home & Kitchen,Pillow Set,1,19946.43,16.3,16695.16,8498.42,8196.74,49.1,EMI,Same Day,Delivered,Small Business
+ORD-1084,C1074,Rohan Chopra,2024-08-07,East,West Bengal,Howrah,Books & Stationery,Business Strategy Book,4,126.24,18.8,410.03,234.71,175.32,42.76,Cash on Delivery,Economy,Returned,Small Business
+ORD-1289,C1071,Deepa Chopra,2024-08-09,West,Goa,Vasco da Gama,Sports & Fitness,Badminton Racket,2,33742.15,5.1,64042.6,40508.13,23534.47,36.75,Cash on Delivery,Economy,In Transit,Small Business
+ORD-1031,C1020,Arjun Das,2024-08-10,East,West Bengal,Howrah,Beauty & Personal Care,Moisturiser SPF,4,3849.03,29.1,10915.85,6082.06,4833.79,44.28,Credit Card,Same Day,In Transit,Corporate
+ORD-1043,C1037,Sai Malhotra,2024-08-12,South,Telangana,Hyderabad,Electronics,Laptop,2,63576.18,11.9,112021.23,85679.22,26342.01,23.52,UPI,Economy,Returned,Consumer
+ORD-1254,C1025,Suman Kulkarni,2024-08-14,North,Uttar Pradesh,Lucknow,Home & Kitchen,LED Bulbs Pack,3,6881.62,13.3,17899.09,11491.61,6407.48,35.8,Credit Card,Economy,Returned,Small Business
+ORD-1146,C1066,Akash Verma,2024-08-16,South,Tamil Nadu,Coimbatore,Sports & Fitness,Football,1,23874.27,22.9,18407.06,10823.15,7583.91,41.2,UPI,Economy,Delivered,Corporate
+ORD-1034,C1063,Suman Sinha,2024-08-17,North,Uttar Pradesh,Lucknow,Fashion,Saree,4,2909.33,12.2,10217.57,5303.16,4914.41,48.1,UPI,Standard,Delivered,Small Business
+ORD-1190,C1041,Pankaj Shah,2024-08-18,West,Goa,Panaji,Beauty & Personal Care,Shampoo Combo,2,2286.41,24.7,3443.33,1325.94,2117.39,61.49,Cash on Delivery,Standard,Cancelled,Home Office
+ORD-1032,C1036,Rajesh Nair,2024-08-18,West,Goa,Margao,Books & Stationery,Coloring Book,3,551.23,8.7,1509.82,886.15,623.67,41.31,Credit Card,Economy,In Transit,Consumer
+ORD-1286,C1047,Rasika Shah,2024-08-19,East,West Bengal,Kolkata,Beauty & Personal Care,Nail Polish Kit,5,3104.55,28.0,11176.38,5914.14,5262.24,47.08,UPI,Standard,Cancelled,Corporate
+ORD-1214,C1064,Lata Nair,2024-08-21,North,Haryana,Faridabad,Home & Kitchen,Bed Sheet Set,1,6721.15,24.5,5074.47,3237.8,1836.67,36.19,Cash on Delivery,Same Day,Delivered,Home Office
+ORD-1072,C1039,Lata Mishra,2024-08-22,North,Punjab,Chandigarh,Fashion,Sunglasses,1,3718.04,32.3,2517.11,1421.48,1095.63,43.53,EMI,Standard,Delivered,Consumer
+ORD-1309,C1071,Deepa Chopra,2024-08-24,South,Tamil Nadu,Madurai,Home & Kitchen,Non-Stick Cookware Set,1,4697.68,21.0,3711.17,2551.41,1159.76,31.25,EMI,Standard,Delivered,Small Business
+ORD-1020,C1067,Vidya Sharma,2024-08-25,West,Gujarat,Ahmedabad,Books & Stationery,Business Strategy Book,1,1189.79,8.3,1091.04,611.88,479.16,43.92,UPI,Express,Cancelled,Corporate
+ORD-1058,C1002,Nilesh Singh,2024-08-26,West,Gujarat,Surat,Sports & Fitness,Dumbbell Pair,2,16248.02,11.3,28823.99,15736.71,13087.28,45.4,Debit Card,Express,Delivered,Small Business
+ORD-1143,C1016,Rasika Iyer,2024-08-26,East,Bihar,Gaya,Sports & Fitness,Skipping Rope,1,9302.05,14.0,7999.76,4340.15,3659.61,45.75,Debit Card,Express,Delivered,Small Business
+ORD-1023,C1070,Bhavna Sinha,2024-08-26,North,Uttar Pradesh,Lucknow,Fashion,Saree,2,3620.17,6.9,6740.76,3383.19,3357.57,49.81,Net Banking,Standard,Delivered,Corporate
+ORD-1159,C1064,Lata Nair,2024-08-26,South,Telangana,Warangal,Beauty & Personal Care,Face Wash,5,2647.58,19.3,10682.99,4699.57,5983.42,56.01,UPI,Economy,Cancelled,Home Office
+ORD-1017,C1042,Vivaan Kapoor,2024-08-26,East,Jharkhand,Dhanbad,Electronics,Bluetooth Speaker,3,17446.47,15.7,44122.12,31826.71,12295.41,27.87,Net Banking,Economy,Returned,Consumer
+ORD-1025,C1022,Kavita Yadav,2024-08-27,South,Telangana,Warangal,Beauty & Personal Care,Face Serum,4,1444.1,30.4,4020.37,1813.51,2206.86,54.89,Credit Card,Standard,Delivered,Home Office
+ORD-1132,C1079,Smita Kulkarni,2024-08-29,North,Uttar Pradesh,Lucknow,Beauty & Personal Care,Nail Polish Kit,4,733.01,30.7,2031.9,919.63,1112.27,54.74,EMI,Standard,Returned,Consumer
+ORD-1071,C1009,Usha Rao,2024-08-31,South,Telangana,Hyderabad,Fashion,Sports Shoes,1,895.77,17.6,738.11,316.22,421.89,57.16,Net Banking,Same Day,In Transit,Corporate
+ORD-1240,C1013,Suman Mishra,2024-09-02,West,Goa,Vasco da Gama,Beauty & Personal Care,Hair Dryer,4,2048.37,21.4,6440.08,3133.14,3306.94,51.35,Cash on Delivery,Express,Delivered,Consumer
+ORD-1122,C1054,Mohan Singh,2024-09-04,East,Bihar,Gaya,Fashion,Saree,3,2431.66,25.7,5420.17,2382.27,3037.9,56.05,Net Banking,Express,Delivered,Consumer
+ORD-1198,C1059,Vijay Agarwal,2024-09-06,West,Maharashtra,Nagpur,Electronics,DSLR Camera,5,60184.35,13.9,259093.63,200917.65,58175.98,22.45,Debit Card,Standard,Cancelled,Small Business
+ORD-1287,C1022,Kavita Yadav,2024-09-09,South,Karnataka,Mysuru,Home & Kitchen,Vacuum Cleaner,5,13145.23,19.0,53238.18,27155.26,26082.92,48.99,Credit Card,Economy,Delivered,Home Office
+ORD-1053,C1020,Arjun Das,2024-09-10,West,Gujarat,Surat,Electronics,Wireless Earbuds,4,56654.05,16.2,189904.38,128606.24,61298.14,32.28,UPI,Express,In Transit,Corporate
+ORD-1199,C1028,Sneha Nair,2024-09-10,North,Punjab,Chandigarh,Books & Stationery,Fountain Pen,1,1213.95,11.0,1080.42,641.37,439.05,40.64,Debit Card,Same Day,Cancelled,Corporate
+ORD-1292,C1023,Swati Verma,2024-09-14,South,Tamil Nadu,Chennai,Sports & Fitness,Cycling Gloves,3,32257.47,8.3,88740.3,55717.49,33022.81,37.21,Cash on Delivery,Same Day,Returned,Small Business
+ORD-1271,C1076,Meena Iyer,2024-09-15,South,Tamil Nadu,Coimbatore,Electronics,Smartwatch,2,58391.77,2.6,113747.17,84948.13,28799.04,25.32,Credit Card,Standard,Delivered,Consumer
+ORD-1021,C1079,Smita Kulkarni,2024-09-15,North,Punjab,Amritsar,Beauty & Personal Care,Shampoo Combo,5,2442.49,38.5,7510.66,4302.53,3208.13,42.71,Net Banking,Economy,Delivered,Consumer
+ORD-1256,C1060,Divya Gupta,2024-09-15,South,Karnataka,Bengaluru,Electronics,LED Monitor,1,73508.06,14.1,63143.42,41346.03,21797.39,34.52,Net Banking,Standard,Returned,Consumer
+ORD-1263,C1046,Aditya Reddy,2024-09-16,North,Uttar Pradesh,Kanpur,Books & Stationery,Self-Help Book,5,993.64,12.1,4367.05,2568.41,1798.64,41.19,Debit Card,Express,Cancelled,Corporate
+ORD-1104,C1070,Bhavna Sinha,2024-09-16,East,Odisha,Rourkela,Beauty & Personal Care,Hair Dryer,1,2165.42,20.8,1715.01,1009.03,705.98,41.16,Cash on Delivery,Standard,Delivered,Corporate
+ORD-1086,C1010,Ajay Jain,2024-09-18,West,Goa,Vasco da Gama,Electronics,DSLR Camera,3,59867.74,4.4,171700.68,129775.42,41925.26,24.42,EMI,Standard,In Transit,Consumer
+ORD-1297,C1023,Swati Verma,2024-09-20,East,Odisha,Rourkela,Fashion,Sports Shoes,4,1133.9,25.5,3379.02,1509.56,1869.46,55.33,UPI,Economy,Delivered,Small Business
+ORD-1299,C1024,Vidya Reddy,2024-09-23,North,Haryana,Faridabad,Sports & Fitness,Badminton Racket,3,2736.25,22.7,6345.36,3772.77,2572.59,40.54,UPI,Express,Delivered,Home Office
+ORD-1091,C1057,Smita Mehta,2024-09-25,West,Maharashtra,Pune,Books & Stationery,Data Science Handbook,5,1004.58,5.6,4741.62,2567.7,2173.92,45.85,Cash on Delivery,Express,Delivered,Small Business
+ORD-1162,C1008,Priya Shah,2024-09-25,South,Telangana,Hyderabad,Fashion,Handbag,4,1165.02,31.7,3182.83,2061.14,1121.69,35.24,UPI,Standard,Cancelled,Consumer
+ORD-1117,C1062,Kavita Sinha,2024-09-26,East,Jharkhand,Dhanbad,Fashion,Sunglasses,1,609.02,16.9,506.1,293.15,212.95,42.08,Net Banking,Economy,Cancelled,Consumer
+ORD-1095,C1070,Bhavna Sinha,2024-09-26,West,Gujarat,Ahmedabad,Fashion,Jeans,1,1690.22,28.6,1206.82,635.9,570.92,47.31,UPI,Same Day,Cancelled,Corporate
+ORD-1208,C1010,Ajay Jain,2024-09-27,West,Rajasthan,Udaipur,Electronics,Smartwatch,4,31362.14,4.8,119427.03,86897.07,32529.96,27.24,UPI,Same Day,Delivered,Consumer
+ORD-1300,C1080,Vijay Das,2024-09-28,West,Maharashtra,Pune,Fashion,Ethnic Kurta,3,1856.01,13.8,4799.64,3060.14,1739.5,36.24,Net Banking,Standard,Delivered,Consumer
+ORD-1083,C1049,Rekha Singh,2024-09-29,South,Tamil Nadu,Coimbatore,Home & Kitchen,Water Purifier,1,391.7,19.9,313.75,169.0,144.75,46.14,EMI,Express,In Transit,Corporate
+ORD-1223,C1016,Rasika Iyer,2024-10-01,North,Uttar Pradesh,Lucknow,Sports & Fitness,Resistance Bands Set,2,3876.89,16.2,6497.67,3616.12,2881.55,44.35,Debit Card,Express,Delivered,Small Business
+ORD-1195,C1077,Ananya Verma,2024-10-02,West,Gujarat,Vadodara,Fashion,Ethnic Kurta,2,4085.57,22.1,6365.32,3393.16,2972.16,46.69,Credit Card,Same Day,Returned,Small Business
+ORD-1055,C1063,Suman Sinha,2024-10-04,West,Maharashtra,Pune,Books & Stationery,Art Supplies Kit,4,1435.8,14.4,4916.18,2839.03,2077.15,42.25,UPI,Standard,Delivered,Small Business
+ORD-1233,C1064,Lata Nair,2024-10-04,East,West Bengal,Durgapur,Books & Stationery,Fountain Pen,5,889.05,13.4,3849.59,1684.76,2164.83,56.24,Debit Card,Express,Delivered,Home Office
+ORD-1002,C1075,Mohan Joshi,2024-10-04,West,Rajasthan,Jodhpur,Books & Stationery,Art Supplies Kit,4,316.72,9.5,1146.53,680.74,465.79,40.63,UPI,Same Day,Delivered,Corporate
+ORD-1160,C1034,Sai Kulkarni,2024-10-10,East,Odisha,Cuttack,Home & Kitchen,Ceiling Fan,1,14150.61,9.4,12820.45,6821.8,5998.65,46.79,Cash on Delivery,Economy,Delivered,Corporate
+ORD-1285,C1066,Akash Verma,2024-10-14,West,Maharashtra,Nagpur,Sports & Fitness,Yoga Mat,1,27754.06,29.1,19677.63,12096.96,7580.67,38.52,Credit Card,Economy,Delivered,Corporate
+ORD-1076,C1072,Sunita Jain,2024-10-14,North,Delhi,New Delhi,Beauty & Personal Care,Moisturiser SPF,3,3275.31,26.7,7202.41,3576.83,3625.58,50.34,Debit Card,Standard,Delivered,Corporate
+ORD-1192,C1059,Vijay Agarwal,2024-10-16,South,Karnataka,Hubli,Electronics,Smartwatch,3,3389.45,4.5,9710.77,6387.1,3323.67,34.23,EMI,Economy,In Transit,Small Business
+ORD-1255,C1068,Divya Saxena,2024-10-18,West,Rajasthan,Jaipur,Sports & Fitness,Dumbbell Pair,1,11027.08,17.7,9075.29,4759.24,4316.05,47.56,UPI,Express,Delivered,Corporate
+ORD-1281,C1068,Divya Saxena,2024-10-22,West,Maharashtra,Pune,Beauty & Personal Care,Face Serum,1,1157.21,19.4,932.71,490.74,441.97,47.39,EMI,Express,Returned,Corporate
+ORD-1180,C1062,Kavita Sinha,2024-10-25,East,Odisha,Cuttack,Books & Stationery,Fiction Novel,4,1204.71,6.1,4524.89,2706.52,1818.37,40.19,Net Banking,Economy,In Transit,Consumer
+ORD-1130,C1054,Mohan Singh,2024-10-25,East,Jharkhand,Dhanbad,Sports & Fitness,Cycling Gloves,4,28588.06,14.2,98114.22,60956.91,37157.31,37.87,Debit Card,Standard,In Transit,Consumer
+ORD-1064,C1034,Sai Kulkarni,2024-10-26,East,West Bengal,Howrah,Electronics,Bluetooth Speaker,5,10588.23,7.4,49023.5,36757.93,12265.57,25.02,Net Banking,Same Day,Delivered,Corporate
+ORD-1186,C1058,Tushar Jain,2024-10-30,South,Kerala,Kozhikode,Fashion,Jeans,4,2159.24,27.1,6296.34,3908.61,2387.73,37.92,Net Banking,Economy,Delivered,Small Business
+ORD-1249,C1019,Sneha Malhotra,2024-10-31,South,Tamil Nadu,Chennai,Fashion,Formal Shirt,4,668.33,25.5,1991.62,897.18,1094.44,54.95,Debit Card,Same Day,Returned,Small Business
+ORD-1033,C1036,Rajesh Nair,2024-11-01,West,Rajasthan,Jaipur,Beauty & Personal Care,Nail Polish Kit,2,2027.07,20.6,3218.99,1334.55,1884.44,58.54,EMI,Same Day,In Transit,Consumer
+ORD-1080,C1073,Rohan Rao,2024-11-01,South,Kerala,Thiruvananthapuram,Beauty & Personal Care,Nail Polish Kit,2,1574.7,31.6,2154.19,1172.33,981.86,45.58,UPI,Standard,Delivered,Home Office
+ORD-1157,C1078,Kavita Sinha,2024-11-04,East,West Bengal,Howrah,Home & Kitchen,Mixer Grinder,5,18169.7,8.8,82853.83,46320.39,36533.44,44.09,UPI,Standard,Delivered,Consumer
+ORD-1090,C1042,Vivaan Kapoor,2024-11-05,North,Punjab,Ludhiana,Sports & Fitness,Badminton Racket,1,15850.73,25.2,11856.35,7319.29,4537.06,38.27,Net Banking,Express,Delivered,Consumer
+ORD-1044,C1042,Vivaan Kapoor,2024-11-05,East,Jharkhand,Jamshedpur,Sports & Fitness,Badminton Racket,4,15434.01,20.0,49388.83,32601.38,16787.45,33.99,Debit Card,Standard,Delivered,Consumer
+ORD-1060,C1007,Arjun Patel,2024-11-06,East,Bihar,Muzaffarpur,Home & Kitchen,Air Fryer,4,7007.11,16.3,23459.8,15269.42,8190.38,34.91,EMI,Economy,Cancelled,Corporate
+ORD-1144,C1059,Vijay Agarwal,2024-11-06,East,West Bengal,Durgapur,Home & Kitchen,Water Purifier,5,5677.06,24.1,21544.44,13038.7,8505.74,39.48,Debit Card,Economy,Returned,Small Business
+ORD-1073,C1042,Vivaan Kapoor,2024-11-07,West,Goa,Margao,Books & Stationery,Data Science Handbook,4,1097.36,11.7,3875.88,2247.44,1628.44,42.01,Credit Card,Standard,Delivered,Consumer
+ORD-1252,C1080,Vijay Das,2024-11-07,East,Jharkhand,Dhanbad,Beauty & Personal Care,Lipstick Pack,5,1971.23,15.2,8358.02,3767.32,4590.7,54.93,EMI,Economy,Delivered,Consumer
+ORD-1259,C1033,Suman Singh,2024-11-07,West,Maharashtra,Nagpur,Electronics,LED Monitor,2,52071.83,12.0,91646.42,55142.99,36503.43,39.83,Debit Card,Same Day,Delivered,Corporate
+ORD-1274,C1026,Rohan Tiwari,2024-11-07,East,Odisha,Cuttack,Electronics,Gaming Mouse,5,10124.58,2.3,49458.57,30726.27,18732.3,37.87,Credit Card,Same Day,Cancelled,Small Business
+ORD-1282,C1072,Sunita Jain,2024-11-09,East,West Bengal,Howrah,Books & Stationery,Self-Help Book,4,584.05,15.1,1983.43,946.05,1037.38,52.3,UPI,Standard,Returned,Corporate
+ORD-1280,C1046,Aditya Reddy,2024-11-09,South,Karnataka,Mysuru,Sports & Fitness,Football,5,23808.08,9.5,107731.56,61229.79,46501.77,43.16,UPI,Express,Delivered,Corporate
+ORD-1006,C1039,Lata Mishra,2024-11-09,South,Telangana,Hyderabad,Home & Kitchen,Mixer Grinder,2,9364.27,8.2,17192.8,11749.97,5442.83,31.66,EMI,Standard,Returned,Consumer
+ORD-1078,C1080,Vijay Das,2024-11-10,North,Haryana,Hisar,Home & Kitchen,Mixer Grinder,3,14437.68,21.1,34173.99,23441.11,10732.88,31.41,EMI,Standard,In Transit,Consumer
+ORD-1101,C1058,Tushar Jain,2024-11-11,East,Odisha,Bhubaneswar,Electronics,Bluetooth Speaker,4,55928.9,2.8,217451.56,161154.92,56296.64,25.89,UPI,Standard,Delivered,Small Business
+ORD-1296,C1026,Rohan Tiwari,2024-11-13,East,West Bengal,Howrah,Beauty & Personal Care,Sunscreen SPF50,3,3868.46,11.6,10259.16,5498.06,4761.1,46.41,Net Banking,Express,Returned,Small Business
+ORD-1005,C1059,Vijay Agarwal,2024-11-14,East,Jharkhand,Ranchi,Books & Stationery,Notebook Set,4,542.65,16.3,1816.79,753.08,1063.71,58.55,Cash on Delivery,Standard,Delivered,Small Business
+ORD-1218,C1039,Lata Mishra,2024-11-14,East,Bihar,Gaya,Electronics,Gaming Mouse,4,1431.16,4.0,5495.65,3917.09,1578.56,28.72,Credit Card,Economy,Delivered,Consumer
+ORD-1015,C1043,Kavita Mehta,2024-11-15,North,Punjab,Amritsar,Sports & Fitness,Badminton Racket,2,12874.91,6.7,24024.58,14884.74,9139.84,38.04,Debit Card,Standard,Returned,Corporate
+ORD-1154,C1023,Swati Verma,2024-11-16,South,Tamil Nadu,Coimbatore,Home & Kitchen,Vacuum Cleaner,1,14006.61,16.8,11653.5,7711.66,3941.84,33.83,EMI,Economy,In Transit,Small Business
+ORD-1061,C1018,Suman Tiwari,2024-11-17,East,Odisha,Rourkela,Home & Kitchen,Non-Stick Cookware Set,2,15598.1,18.6,25393.71,16724.41,8669.3,34.14,UPI,Standard,Delivered,Home Office
+ORD-1205,C1028,Sneha Nair,2024-11-17,South,Tamil Nadu,Chennai,Sports & Fitness,Skipping Rope,1,21439.11,9.1,19488.15,10975.99,8512.16,43.68,EMI,Express,Delivered,Corporate
+ORD-1197,C1074,Rohan Chopra,2024-11-19,South,Tamil Nadu,Chennai,Books & Stationery,Fountain Pen,2,1166.06,15.1,1979.97,985.81,994.16,50.21,Debit Card,Economy,Delivered,Small Business
+ORD-1265,C1007,Arjun Patel,2024-11-20,South,Telangana,Warangal,Home & Kitchen,Water Purifier,3,14722.15,14.3,37850.65,19906.11,17944.54,47.41,Cash on Delivery,Standard,Delivered,Corporate
+ORD-1219,C1045,Akash Saxena,2024-11-21,West,Gujarat,Vadodara,Sports & Fitness,Treadmill,2,421.95,15.3,714.78,387.37,327.41,45.81,EMI,Standard,Delivered,Small Business
+ORD-1221,C1018,Suman Tiwari,2024-11-22,North,Uttar Pradesh,Agra,Beauty & Personal Care,Nail Polish Kit,4,3902.04,12.5,13657.14,5106.33,8550.81,62.61,Net Banking,Standard,In Transit,Home Office
+ORD-1118,C1071,Deepa Chopra,2024-11-23,North,Uttar Pradesh,Kanpur,Books & Stationery,Data Science Handbook,4,752.17,12.8,2623.57,1116.77,1506.8,57.43,Cash on Delivery,Express,Cancelled,Small Business
+ORD-1121,C1080,Vijay Das,2024-11-23,East,West Bengal,Kolkata,Electronics,Laptop,5,21760.75,4.2,104233.99,74467.62,29766.37,28.56,UPI,Economy,Returned,Consumer
+ORD-1305,C1001,Kavita Gupta,2024-11-24,West,Goa,Margao,Books & Stationery,Planner,4,542.97,10.8,1937.32,820.77,1116.55,57.63,EMI,Standard,Cancelled,Home Office
+ORD-1120,C1065,Pooja Rao,2024-11-24,North,Haryana,Gurugram,Books & Stationery,Art Supplies Kit,3,275.24,9.5,747.28,378.64,368.64,49.33,Credit Card,Express,Delivered,Consumer
+ORD-1258,C1029,Usha Sinha,2024-11-27,North,Haryana,Gurugram,Beauty & Personal Care,Face Serum,2,3437.21,33.4,4578.36,1847.73,2730.63,59.64,Credit Card,Express,Delivered,Corporate
+ORD-1181,C1022,Kavita Yadav,2024-11-27,North,Haryana,Hisar,Sports & Fitness,Skipping Rope,1,4006.06,11.2,3557.38,2204.31,1353.07,38.04,Cash on Delivery,Standard,In Transit,Home Office
+ORD-1236,C1063,Suman Sinha,2024-11-28,West,Maharashtra,Pune,Home & Kitchen,Water Purifier,2,24401.34,19.6,39237.35,23389.82,15847.53,40.39,Debit Card,Express,Returned,Small Business
+ORD-1027,C1009,Usha Rao,2024-11-29,West,Rajasthan,Jaipur,Beauty & Personal Care,Face Serum,5,350.53,38.6,1076.13,436.97,639.16,59.39,UPI,Standard,Delivered,Corporate
+ORD-1284,C1064,Lata Nair,2024-11-30,South,Karnataka,Mysuru,Beauty & Personal Care,Lipstick Pack,4,488.88,25.0,1466.64,629.21,837.43,57.1,UPI,Standard,Delivered,Home Office
+ORD-1087,C1020,Arjun Das,2024-12-01,South,Telangana,Warangal,Books & Stationery,Fiction Novel,2,243.93,8.8,444.93,193.41,251.52,56.53,UPI,Express,Cancelled,Corporate
+ORD-1264,C1043,Kavita Mehta,2024-12-01,South,Telangana,Hyderabad,Beauty & Personal Care,Hair Dryer,3,2941.97,26.8,6460.57,3735.22,2725.35,42.18,UPI,Express,Delivered,Corporate
+ORD-1074,C1015,Rasika Verma,2024-12-01,East,Bihar,Gaya,Sports & Fitness,Badminton Racket,3,15989.3,20.1,38326.35,19847.38,18478.97,48.21,EMI,Express,Delivered,Corporate
+ORD-1105,C1031,Nikhil Chauhan,2024-12-02,West,Maharashtra,Nagpur,Beauty & Personal Care,Nail Polish Kit,3,3027.17,20.7,7201.64,2642.21,4559.43,63.31,EMI,Standard,Cancelled,Home Office
+ORD-1077,C1020,Arjun Das,2024-12-02,East,Jharkhand,Dhanbad,Electronics,Bluetooth Speaker,5,25545.95,2.1,125047.43,87718.58,37328.85,29.85,Net Banking,Express,Cancelled,Corporate
+ORD-1012,C1004,Rohan Das,2024-12-03,North,Punjab,Amritsar,Fashion,Jacket,3,1734.4,28.9,3699.48,1690.29,2009.19,54.31,Credit Card,Economy,Delivered,Consumer
+ORD-1151,C1005,Rasika Bose,2024-12-04,South,Tamil Nadu,Coimbatore,Home & Kitchen,Pressure Cooker,3,4874.32,22.5,11332.79,7574.93,3757.86,33.16,Net Banking,Standard,Delivered,Home Office
+ORD-1115,C1041,Pankaj Shah,2024-12-07,North,Uttar Pradesh,Lucknow,Beauty & Personal Care,Hair Dryer,4,3989.46,34.3,10484.3,6205.56,4278.74,40.81,Debit Card,Standard,In Transit,Home Office
+ORD-1111,C1010,Ajay Jain,2024-12-09,West,Maharashtra,Nagpur,Home & Kitchen,Pillow Set,4,7008.97,24.6,21139.05,14977.84,6161.21,29.15,EMI,Economy,Delivered,Consumer
+ORD-1179,C1053,Sneha Pillai,2024-12-10,North,Punjab,Chandigarh,Fashion,Jacket,3,4207.02,7.1,11724.96,7175.05,4549.91,38.81,Net Banking,Express,Returned,Consumer
+ORD-1153,C1077,Ananya Verma,2024-12-10,South,Karnataka,Bengaluru,Sports & Fitness,Cycling Gloves,2,28589.36,23.3,43856.08,24445.5,19410.58,44.26,Debit Card,Express,Delivered,Small Business
+ORD-1018,C1031,Nikhil Chauhan,2024-12-10,South,Kerala,Kozhikode,Fashion,Casual T-Shirt,3,2722.62,24.0,6207.57,3003.2,3204.37,51.62,Debit Card,Express,Cancelled,Home Office
+ORD-1063,C1029,Usha Sinha,2024-12-12,East,Odisha,Cuttack,Beauty & Personal Care,Perfume Set,3,3246.3,24.0,7401.56,2729.88,4671.68,63.12,EMI,Economy,Cancelled,Corporate
+ORD-1016,C1049,Rekha Singh,2024-12-12,East,Bihar,Muzaffarpur,Beauty & Personal Care,Nail Polish Kit,4,2834.25,26.6,8321.36,3311.57,5009.79,60.2,EMI,Express,In Transit,Corporate
+ORD-1294,C1037,Sai Malhotra,2024-12-15,North,Delhi,Dwarka,Fashion,Formal Shirt,1,1239.54,27.5,898.67,395.62,503.05,55.98,Debit Card,Express,Cancelled,Consumer
+ORD-1247,C1069,Divya Mehta,2024-12-17,East,Jharkhand,Dhanbad,Fashion,Handbag,1,4251.75,29.6,2993.23,1510.56,1482.67,49.53,Net Banking,Express,Delivered,Small Business
+ORD-1182,C1075,Mohan Joshi,2024-12-18,West,Rajasthan,Jodhpur,Electronics,Laptop,1,21292.08,10.2,19120.29,13456.09,5664.2,29.62,Cash on Delivery,Express,Delivered,Corporate
+ORD-1046,C1053,Sneha Pillai,2024-12-21,West,Maharashtra,Pune,Home & Kitchen,Ceiling Fan,3,8162.24,7.1,22748.16,12178.94,10569.22,46.46,Net Banking,Same Day,Returned,Consumer
+ORD-1056,C1022,Kavita Yadav,2024-12-21,East,Odisha,Rourkela,Electronics,DSLR Camera,1,61021.28,14.1,52417.28,32504.03,19913.25,37.99,Debit Card,Standard,Delivered,Home Office
+ORD-1203,C1002,Nilesh Singh,2024-12-22,North,Delhi,New Delhi,Beauty & Personal Care,Moisturiser SPF,2,2435.67,25.6,3624.28,1671.76,1952.52,53.87,Debit Card,Standard,Cancelled,Small Business
+ORD-1136,C1072,Sunita Jain,2024-12-22,East,West Bengal,Howrah,Beauty & Personal Care,Perfume Set,4,973.85,34.8,2539.8,1061.09,1478.71,58.22,Debit Card,Express,Delivered,Corporate
+ORD-1106,C1060,Divya Gupta,2024-12-22,East,Odisha,Bhubaneswar,Home & Kitchen,Bed Sheet Set,3,20375.02,8.5,55929.43,37551.66,18377.77,32.86,Net Banking,Express,Cancelled,Consumer
+ORD-1028,C1060,Divya Gupta,2024-12-24,South,Karnataka,Hubli,Fashion,Ethnic Kurta,2,2525.74,8.4,4627.16,2947.22,1679.94,36.31,Debit Card,Same Day,Delivered,Consumer
+ORD-1065,C1060,Divya Gupta,2024-12-24,South,Kerala,Kochi,Sports & Fitness,Badminton Racket,3,32050.91,10.5,86056.69,44007.59,42049.1,48.86,Debit Card,Economy,Delivered,Consumer
+ORD-1250,C1002,Nilesh Singh,2024-12-24,North,Delhi,Dwarka,Sports & Fitness,Cricket Bat,5,11549.21,11.9,50874.27,29632.65,21241.62,41.75,Cash on Delivery,Economy,Delivered,Small Business
+ORD-1210,C1055,Nilesh Reddy,2024-12-25,East,Odisha,Bhubaneswar,Electronics,DSLR Camera,5,23489.83,14.3,100653.92,75834.88,24819.04,24.66,Net Banking,Standard,Returned,Small Business
+ORD-1291,C1039,Lata Mishra,2024-12-25,West,Rajasthan,Jodhpur,Beauty & Personal Care,Hair Dryer,2,1739.07,31.0,2399.92,1289.01,1110.91,46.29,Cash on Delivery,Same Day,Returned,Consumer
+ORD-1303,C1069,Divya Mehta,2024-12-25,South,Karnataka,Hubli,Electronics,Smartwatch,2,69304.11,8.5,126826.52,78732.05,48094.47,37.92,EMI,Economy,Returned,Small Business
+ORD-1237,C1001,Kavita Gupta,2024-12-25,East,Odisha,Rourkela,Sports & Fitness,Dumbbell Pair,4,10877.45,22.2,33850.62,17701.26,16149.36,47.71,Cash on Delivery,Economy,Cancelled,Home Office
+ORD-1134,C1037,Sai Malhotra,2024-12-26,East,Jharkhand,Ranchi,Fashion,Sports Shoes,5,1702.95,33.2,5687.85,3671.88,2015.97,35.44,Credit Card,Economy,Delivered,Consumer
